@@ -1,0 +1,26 @@
+2023-05-23 21:05:786 INFO  ManageBrowser :29 - launching chrome browser
+2023-05-23 21:05:642 INFO  LoginPage :32 - Enter User Name
+2023-05-23 21:05:698 INFO  LoginPage :38 - Enter Password
+2023-05-23 21:05:776 INFO  LoginPage :44 - Click on login tab
+2023-05-23 21:05:647 INFO  DashboardPage :30 - Get dashboard text
+2023-05-23 21:05:294 INFO  ManageBrowser :29 - launching chrome browser
+2023-05-23 21:05:767 INFO  LoginPage :32 - Enter User Name
+2023-05-23 21:05:824 INFO  LoginPage :38 - Enter Password
+2023-05-23 21:05:888 INFO  LoginPage :44 - Click on login tab
+2023-05-23 21:05:844 INFO  HomePage :27 - Click on admin tab
+2023-05-23 21:05:646 INFO  HomePage :33 - Get System User text 
+2023-05-23 21:05:678 INFO  AdminPage :29 - Click on add button
+2023-05-23 21:05:02 INFO  AdminPage :35 - Get add user text :
+2023-05-23 21:05:113 INFO  AddUserPage :44 - Enter employee name :
+2023-05-23 21:05:205 INFO  AddUserPage :76 - Enter User name
+2023-05-23 21:05:352 INFO  AddUserPage :58 - Enter Password :
+2023-05-23 21:05:414 INFO  AddUserPage :64 - Enter confirm password
+2023-05-23 21:05:477 INFO  AddUserPage :70 - Click on save button
+2023-05-23 21:05:160 INFO  ManageBrowser :29 - launching chrome browser
+2023-05-23 21:05:887 INFO  LoginPage :32 - Enter User Name
+2023-05-23 21:05:933 INFO  LoginPage :38 - Enter Password
+2023-05-23 21:05:03 INFO  LoginPage :44 - Click on login tab
+2023-05-23 21:05:841 INFO  HomePage :27 - Click on admin tab
+2023-05-23 21:05:491 INFO  HomePage :33 - Get System User text 
+2023-05-23 21:05:521 INFO  AdminPage :29 - Click on add button
+2023-05-23 21:05:945 INFO  AddUserPage :44 - Enter employee name :
